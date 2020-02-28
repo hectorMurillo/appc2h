@@ -5,7 +5,7 @@
         "background_color": "#2196f3",
         "display": "fullscreen",
         "Scope": "/",
-        "start_url": "/appc2h/#/",
+        "start_url": "/appc2h/",
         "icons": [
           {
             "src": "images/icons/icon-72x72.png",
